@@ -2001,7 +2001,7 @@ Can it be taught to say ''Paully want a cracker''?
 Q:
 Do they have an orange spot on either side of their head?
 A:
-cockatiel 
+cockatiel
 Q:
 Is it related to the crow?
 A:
@@ -3171,7 +3171,7 @@ toucan
 Q:
 Does it have a yellow crest?
 A:
-cockatiel 
+cockatiel
 A:
 macaw
 Q:
@@ -9593,7 +9593,7 @@ golden lion tamarin
 Q:
 Does it love to swing from tree to tree?
 A:
-chimpanzee 
+chimpanzee
 A:
 marmoset
 Q:
@@ -20767,7 +20767,7 @@ horse
 Q:
 Is it a horse with spots?
 A:
-Appaloosa  
+Appaloosa
 A:
 lion
 Q:
@@ -23793,7 +23793,7 @@ raccoon
 Q:
 Does it bark?
 A:
-tyrannosaurus 
+tyrannosaurus
 Q:
 Does it live in the Digital World?
 A:
@@ -27837,7 +27837,7 @@ doberman pinscher
 Q:
 Is this animal bigger than a daschund?
 A:
-short-haired daschund 
+short-haired daschund
 A:
 boxer
 Q:
@@ -27909,7 +27909,7 @@ German Shepherd
 A:
 black and tan coonhound
 A:
-doberman pinscher 
+doberman pinscher
 A:
 rottweiler
 Q:

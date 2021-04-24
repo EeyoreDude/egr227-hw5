@@ -27,7 +27,7 @@ public class QuestionsMain {
         System.out.print("Let's play!  ");
         do {
             System.out.println("Please choose your object, and I'll " +
-                               "start guessing.");
+                    "start guessing.");
             System.out.println("Press Enter when you're ready to begin!");
             console.nextLine();
             game.play(console);
@@ -50,7 +50,7 @@ public class QuestionsMain {
 
     public static String getInitialObject(Scanner console) {
         System.out.println("There are no objects to guess in that " +
-                           "questions file.");
+                "questions file.");
         System.out.print("Can you provide me with an initial object? ");
         return console.nextLine().toLowerCase().trim();
     }

@@ -1,0 +1,42 @@
+Q:
+Is it a type of social media?
+Q:
+Sixty-nine is funny number?
+A:
+reddit
+A:
+twitter
+Q:
+Is it a man-made object?
+Q:
+Do you type with it?
+A:
+keyboard
+Q:
+Does it display images?
+A:
+monitor
+Q:
+Do you write with it?
+Q:
+Does it use ink?
+Q:
+Is it used to sign legal documents?
+A:
+pen
+A:
+marker
+A:
+pencil
+A:
+computer mouse
+Q:
+Is it alive?
+Q:
+Does it live in the ocean?
+A:
+whale
+A:
+dog
+A:
+memes
